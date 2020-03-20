@@ -5,13 +5,13 @@
         xmlns:cdv="http://cordova.apache.org/ns/1.0"
         id          = "site.podruzhkaforum.myapp"
         versionCode = "10"
-        version     = "1.3.0">
+        version     = "1.4.0">
 
     <name>ПОДРУЖКАforum</name>
 
     <description>
         Добро пожаловать на абсолютно новый женский форум!
-Это женское онлайн-сообщество "ПОДРУЖКАforum". Наш небольшой мир дружелюбный и гостеприимный. Кроме обсуждения волнующих тем на форуме, также предлагаем различные статьи,  новости и прочее, охватывающие ряд женских интересов.
+Это женское онлайн-сообщество "ПОДРУЖКАforum". Наш небольшой, но очень уютный мир очень гостеприимный. Кроме обсуждения волнующих тем и получения поддержки от подруг на форуме, предлагаем различные статьи,  новости и прочее, охватывающие ряд женских интересов.
 Не стесняйтесь, вступайте в наши ряды! Мы с нетерпением ждем знакомства с Вами!
     </description>
 
@@ -32,7 +32,7 @@
     <preference name='WindowsToastCapable' value='true' />
 
     <preference name="SplashMaintainAspectRatio" value="true" />
-    <preference name="SplashScreenSpinnerColor" value="#F10DDB" />
+    <preference name="SplashScreenSpinnerColor" value="#007BFF" />
     
     <platform name="android">
       <edit-config file="app/src/main/AndroidManifest.xml" mode="merge" target="/manifest/application">
@@ -42,17 +42,17 @@
 
 
     <platform name="android">
-        <icon src="res/android/icon/a6602586387520148eb179e98753cba7.png" density="ldpi" />
-        <icon src="res/android/icon/bbef2c0af94b4eda56ed2817ef5313a1.png" density="mdpi" />
-        <icon src="res/android/icon/9ebdbab8a54c351cac14906def7a38ac.png" density="hdpi" />
-        <icon src="res/android/icon/43827aad519fb9b1f7a480a6cde6eb8e.png" density="xhdpi" />
-        <icon src="res/android/icon/cef0b5b25e4d8e5cfce10970d0ed8e6a.png" density="xxhdpi" />
-        <icon src="res/android/icon/5d705aa68e7dce5a3395c159bd30d375.png" density="xxxhdpi" />
+        <icon src="res/android/icon/a37f7218223884ffde397b09a7e4b7ba.png" density="ldpi" />
+        <icon src="res/android/icon/414473756d38008d69f2194525def844.png" density="mdpi" />
+        <icon src="res/android/icon/f5e8ffd1cb0be798374f5cb17f350a68.png" density="hdpi" />
+        <icon src="res/android/icon/98edc16b13eb6c7ec77f871735348713.png" density="xhdpi" />
+        <icon src="res/android/icon/d0efcc9e25e9d7cd7fca6e7f2afbee52.png" density="xxhdpi" />
+        <icon src="res/android/icon/d132e168a6a889484a857585f4faab7f.png" density="xxxhdpi" />
 
-        <splash src="res/android/screen/35bc293202f0e2816674773791d26a01.png" density="port-hdpi"/>
-        <splash src="res/android/screen/d9627f909fb32175fc68880f118bdcb4.png" density="port-ldpi"/>
-        <splash src="res/android/screen/80142406ab6648761bdd01d738b6488e.png" density="port-mdpi"/>
-        <splash src="res/android/screen/46c537c3debaafce8dc15b64d47673c6.png" density="port-xhdpi"/>
+        <splash src="res/android/screen/0b65da24f64216e27abf393fea24503b.png" density="port-hdpi"/>
+        <splash src="res/android/screen/bd3caeaf03558fdd4d88b7143730889c.png" density="port-ldpi"/>
+        <splash src="res/android/screen/0226fde0841200b38f8ebd2e63adc9da.png" density="port-mdpi"/>
+        <splash src="res/android/screen/fab90a21f879088166954e1bc8061d69.png" density="port-xhdpi"/>
     </platform>
 
     <platform name="ios">
