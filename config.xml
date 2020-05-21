@@ -5,7 +5,7 @@
         xmlns:cdv="http://cordova.apache.org/ns/1.0"
         id          = "site.podruzhkaforum.myapp"
         versionCode = "10"
-        version     = "1.6.0">
+        version     = "1.7.0">
 
     <name>ПОДРУЖКАforum</name>
 
@@ -49,10 +49,10 @@
         <icon src="res/android/icon/d0efcc9e25e9d7cd7fca6e7f2afbee52.png" density="xxhdpi" />
         <icon src="res/android/icon/d132e168a6a889484a857585f4faab7f.png" density="xxxhdpi" />
 
-        <splash src="res/android/screen/0b65da24f64216e27abf393fea24503b.png" density="port-hdpi"/>
-        <splash src="res/android/screen/bd3caeaf03558fdd4d88b7143730889c.png" density="port-ldpi"/>
-        <splash src="res/android/screen/0226fde0841200b38f8ebd2e63adc9da.png" density="port-mdpi"/>
-        <splash src="res/android/screen/fab90a21f879088166954e1bc8061d69.png" density="port-xhdpi"/>
+        <splash src="res/android/screen/a28506868097d2ca7ddfdea4c63d9381.png" density="port-hdpi"/>
+        <splash src="res/android/screen/b938564a1e21674dc2bbdf52c8314962.png" density="port-ldpi"/>
+        <splash src="res/android/screen/89a62d7eef2d7f8ce9167f0d5415e6c6.png" density="port-mdpi"/>
+        <splash src="res/android/screen/5804e1702257c04209c64a3903502292.png" density="port-xhdpi"/>
     </platform>
 
     <platform name="ios">
